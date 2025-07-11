@@ -1,0 +1,23 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+/**
+ *
+ * @author AzegeleBradley
+ */
+public class TestingArrays {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+        double[] n = (50.5,60.4,3.4,8.9);
+        for (int i=0; i <n.legnth;i++)
+            System.out.print(x+"\t");
+    }
+    
+}
